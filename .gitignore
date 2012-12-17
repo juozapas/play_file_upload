@@ -20,3 +20,8 @@ test-result
 server.pid
 *.iml
 *.eml
+.settings
+.idea_modules
+.project
+.idea
+.history
